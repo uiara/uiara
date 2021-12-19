@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou trabalando com IoT
 - 🌱 Estou estudando python
-- 💬 Contate-me no email: uiarabianka87@gmail.com 
 - 😄 Pronouns: ela/dela
 <div align="-webkit-center">
   <a href="https://github.com/uiara">
