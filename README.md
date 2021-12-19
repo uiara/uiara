@@ -1,6 +1,6 @@
 ## Olá!! Eu sou a Bianka Uiara
 
-- 🔭 Hoje estou trabalando com IoT
+- 🔭 Hoje estou trabalhando com IoT
 - 🌱 Estou estudando python
 - 😄 Pronouns: ela/dela
 <div align="-webkit-center">
