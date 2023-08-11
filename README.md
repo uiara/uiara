@@ -14,6 +14,7 @@ Olá! Eu sou Bianka Uiara.
   <img align="center" alt="Ícone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
   <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
   <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+    <img align="center" alt="Ícone Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook">
   <img align="right" alt="Minha Foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/723308512758857812/922266976506757251/eu.png" alt="Minha Foto">
 </div>
 
