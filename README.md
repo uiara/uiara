@@ -17,7 +17,8 @@ Olá! Eu sou Bianka Uiara.
   <!-- Linguagens e Ferramentas -->
   <img align="center" alt="Ícone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
   <img align="center" alt="Ícone Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook">
-  <img align="center" alt="Ícone Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
+  <img align="center" alt="Ícone Linux" height="30" width="40" class="devicon-linux-plain"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
   
   <!-- Outras Tecnologias -->
   <img align="center" alt="Ícone Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
