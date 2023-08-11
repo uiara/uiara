@@ -10,11 +10,26 @@ Olá! Eu sou Bianka Uiara.
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ícone Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
-  <img align="center" alt="Ícone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
-  <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+  <!-- Tecnologias de Dados -->
+  <div>
+    <img align="center" alt="Ícone SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
+    <img align="center" alt="Ícone Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+  </div>
+  
+  <!-- Linguagens e Ferramentas -->
+  <div>
+    <img align="center" alt="Ícone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
     <img align="center" alt="Ícone Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook">
+    <img align="center" alt="Ícone Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
+  </div>
+  
+  <!-- Outras Tecnologias -->
+  <div>
+    <img align="center" alt="Ícone Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
+    <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
+    <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+  </div>
+
   <img align="right" alt="Minha Foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/723308512758857812/922266976506757251/eu.png" alt="Minha Foto">
 </div>
 
