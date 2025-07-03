@@ -1,6 +1,7 @@
 ## Sobre Mim
 
-Olá! Eu sou Bianka Uiara.
+Olá! Eu sou **Bianka Uiara**.  
+Sou apaixonada por tecnologia, dados e inovação. Tenho interesse especial por Python, Machine Learning, SQL e soluções criativas com automação. Busco sempre aprender, compartilhar e transformar ideias em impacto real.
 
 <div align="center">
   <a href="https://github.com/uiara">
@@ -9,30 +10,39 @@ Olá! Eu sou Bianka Uiara.
   </a>
 </div>
 
+<br>
+
 <div style="display: inline_block"><br>
   <!-- Tecnologias de Dados -->
-  <img align="center" alt="Ícone SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
-  <img align="center" alt="Ícone Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook">
   
-  <!-- Linguagens e Ferramentas -->
-  <img align="center" alt="Ícone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img align="center" alt="Ícone Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook">
-  <i class="devicon-linux-plain"></i>
-  
-  <!-- Outras Tecnologias -->
-  <img align="center" alt="Ícone Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
-  <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
-  <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+  <!-- Outras Ferramentas -->
+  <img align="center" alt="Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
 </div>
 
-<img align="right" alt="Minha Foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/723308512758857812/922266976506757251/eu.png" alt="Minha Foto">
+<br>
+
+<img align="right" alt="Minha Foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/723308512758857812/922266976506757251/eu.png" title="Bianka Uiara">
 
 ---
 
 <div> 
-  <a href="https://www.instagram.com/uiiiiara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:uiarabianka87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/bianka-uiara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  
-  ![Animação da Cobra](https://github.com/Uiara/Uiara/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.instagram.com/uiiiiara/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:uiarabianka87@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/bianka-uiara/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
+<br>
+
+![Snake animation](https://github.com/Uiara/Uiara/blob/output/github-contribution-grid-snake.svg)
